@@ -1,0 +1,30 @@
+
+.divmedio{
+margin: auto 30px;
+padding: 20px;
+width: 400px; 
+height: 200px;
+background-color:rgb(116, 116, 214);
+display: flex; 
+}
+
+.divexterno{
+    background-color: rgb(186, 140, 230);
+    height: 300px;
+    width: 500px;
+    margin:auto;
+    position: relative;
+    display: flex;
+     
+    
+
+}
+
+.divinterno{
+  background-color: rgb(123, 243, 183);   
+  height: 200px;
+  width: 400px;
+  margin:auto; 
+  display: flex;
+
+}
